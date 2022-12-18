@@ -1,6 +1,6 @@
 let answer = parseInt(prompt("Please enter the number you would like to FizzBuzz up to: "));
 
- for (let i = 1; i <= answer; i++) {
+for (let i = 1; i <= answer; i++){
     if (i % 3 === 0 && i % 5 === 0) {
         console.log('FizzBuzz')
     } else if (i % 3 === 0) {
@@ -10,4 +10,6 @@ let answer = parseInt(prompt("Please enter the number you would like to FizzBuzz
     } else {
         console.log(i)
     }
- }
+}
+
+// YOU DID THIS ALL ON YOUR OWN. ITS IN YOUR BRAIN NOW! LETS GOOOOOO!!!
