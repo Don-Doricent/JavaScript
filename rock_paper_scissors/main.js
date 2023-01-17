@@ -38,16 +38,16 @@ function getResult() {
         result = 'you win!'
     }
     if (computerChoice === 'rock' && userChoice === 'scissors') {
-        result = 'you lost!'
+        result = 'you lose!'
     }
     if (computerChoice === 'paper' && userChoice === 'rock') {
-        result = 'you lost!'
+        result = 'you lose!'
     }
     if (computerChoice === 'paper' && userChoice === 'scissors') {
         result = 'you win!'
     }
     if (computerChoice === 'scissors' && userChoice === 'paper') {
-        result = 'you lost!'
+        result = 'you lose!'
     }
     if (computerChoice === 'scissors' && userChoice === 'rock') {
         result = 'you win!'
