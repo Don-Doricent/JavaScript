@@ -1,0 +1,8 @@
+html {
+    background: url(RPS_BG_IMAGE.jpeg) no-repeat center center fixed;
+    -webkit-backgound-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
